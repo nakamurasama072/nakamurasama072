@@ -48,7 +48,8 @@ I'm NakamuraSama072, a new yet passionate developer interested in building innov
 
 ## 🔭 Working on: 
 
-- Linux application development using gtkmm
+- Linux InfraOps
+- Cloud Native/Application
 - C and C++ development
 
 ## 📫 How to reach me: 
