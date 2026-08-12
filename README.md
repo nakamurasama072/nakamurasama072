@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Linux, InfraOps, Cloud Applications and open-source software<br>👯 I’m looking to collaborate on Linux, open-source infrastructure and cloud application projects<br>🤝 I’m looking for help with distributed systems, cloud infrastructure and secure software engineering<br>🌱 I’m currently learning Cybersecurity and Data Forensics<br>💬 Ask me about Linux, C/C++, networking and system administration<br>⚡ Fun fact: I like turning complicated systems into small, efficient programs as well as using cheap, outdated computer accessories to build dedicated functional machines. I play アズールレーン
 
+btw I use Fedora, not Arch.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamidenyichiyan@gmail.com)
