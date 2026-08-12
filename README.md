@@ -1,58 +1,16 @@
-# Hi there! 👋
+# 💫 About Me:
+🔭 I’m currently working on Linux, InfraOps, Cloud Applications and open-source software<br>👯 I’m looking to collaborate on Linux, open-source infrastructure and cloud application projects<br>🤝 I’m looking for help with distributed systems, cloud infrastructure and secure software engineering<br>🌱 I’m currently learning Cybersecurity and Data Forensics<br>💬 Ask me about Linux, C/C++, networking and system administration<br>⚡ Fun fact: I like turning complicated systems into small, efficient programs as well as using cheap, outdated computer accessories to build dedicated functional machines. I play アズールレーン
 
-I'm NakamuraSama072, a new yet passionate developer interested in building innovative solutions and collaborating on open-source projects. I'm also a Red Hat Certified Engineer (RHCE).
 
-## 🌱 Currently learning: 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamidenyichiyan@gmail.com)
+<!-- [![Static Badge](https://img.shields.io/badge/misskey-website?logo=misskey)(your_misskey_url_here)] -->
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/4b9d747c-e14d-41f3-afc2-e082eb21d482" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/48464473-68ae-4905-b9b9-b5e46d9c5adb" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/7fc6e14e-9c2f-422f-a28b-c8ea5e15141f" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b206d5a8-4030-4324-be2e-7b52ff5b0a16" />
-<img align="left" alt="Unreal Engine 5" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/d5ef8bb7-bb12-488b-ab3a-ba2368464ba8" />
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nakamurasama072&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nakamurasama072&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nakamurasama072&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-<br>
-
-## 💻 Tech skills:
-
-### Programming Languages
-
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/4b9d747c-e14d-41f3-afc2-e082eb21d482" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/48464473-68ae-4905-b9b9-b5e46d9c5adb" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/7fc6e14e-9c2f-422f-a28b-c8ea5e15141f" />
-
-<br>
-<br>
-
-### Development Toolkits
-
-<img align="left" alt="GNU Compiler" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/50c0e094-a974-419e-ad69-77ff6051c443" />
-<img align="left" alt="CLion" width="30px" style="padding-right:10px;" src="https://images.g2crowd.com/uploads/product/image/6b13ddc843990a8fad34481df5c45397/clion.png" />
-<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*co_1qORNdM0PI1nvCp7Iig.png" />
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-
-<br>
-<br>
-
-### Operating Systems
-
-<img align="left" alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" />
-<img align="left" alt="Debian" width="30px" style="padding-right:10px;" src="https://www.beagleboard.org/app/uploads/2014/03/Openlogo-debianV2.svg.png" />
-<img align="left" alt="Fedora" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" />
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://www.citypng.com/public/uploads/preview/hd-windows-11-logo-icon-transparent-background-701751694967888zqtluh5aaw.png" />
-
-<br>
-<br>
-
-## 🔭 Working on: 
-
-- Linux InfraOps
-- Cybersecurity (Red Team)
-- Cloud Native/Application (using Docker/Podman)
-- C and C++ development
-
-## 📫 How to reach me: 
-
-[email](mailto:kamidenyichiyan@gmail.com)
-
-Let's connect and create amazing things together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
